@@ -1,0 +1,13 @@
+D:\Visual Studio\Универ\Инженерия 2021\Factory method\bin\Debug\netcoreapp3.1\Factory method.exe
+D:\Visual Studio\Универ\Инженерия 2021\Factory method\bin\Debug\netcoreapp3.1\Factory method.deps.json
+D:\Visual Studio\Универ\Инженерия 2021\Factory method\bin\Debug\netcoreapp3.1\Factory method.runtimeconfig.json
+D:\Visual Studio\Универ\Инженерия 2021\Factory method\bin\Debug\netcoreapp3.1\Factory method.runtimeconfig.dev.json
+D:\Visual Studio\Универ\Инженерия 2021\Factory method\bin\Debug\netcoreapp3.1\Factory method.dll
+D:\Visual Studio\Универ\Инженерия 2021\Factory method\bin\Debug\netcoreapp3.1\Factory method.pdb
+D:\Visual Studio\Универ\Инженерия 2021\Factory method\obj\Debug\netcoreapp3.1\Factory method.csproj.AssemblyReference.cache
+D:\Visual Studio\Универ\Инженерия 2021\Factory method\obj\Debug\netcoreapp3.1\Factory method.AssemblyInfoInputs.cache
+D:\Visual Studio\Универ\Инженерия 2021\Factory method\obj\Debug\netcoreapp3.1\Factory method.AssemblyInfo.cs
+D:\Visual Studio\Универ\Инженерия 2021\Factory method\obj\Debug\netcoreapp3.1\Factory method.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Универ\Инженерия 2021\Factory method\obj\Debug\netcoreapp3.1\Factory method.dll
+D:\Visual Studio\Универ\Инженерия 2021\Factory method\obj\Debug\netcoreapp3.1\Factory method.pdb
+D:\Visual Studio\Универ\Инженерия 2021\Factory method\obj\Debug\netcoreapp3.1\Factory method.genruntimeconfig.cache
